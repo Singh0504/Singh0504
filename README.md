@@ -1,25 +1,21 @@
 # 👋 Hi, I’m Harpreet Singh!
 
-I’m a fresh and enthusiastic data analyst, eager to learn and grow in the field of data analysis.
+I am an aspiring data analyst focused on mastering SQL for data analysis and Power BI for creating insightful dashboards.
 
-## 👀 I’m interested in...
-- Analyzing data to find insights
-- Data visualization and storytelling
-- Learning new tools and techniques
+## 👀 Interests
+- Passionate about data analysis and uncovering insights.
 
-## 🌱 I’m currently learning...
-- SQL for data management
-- Power BI for creating dashboards
+## 🌱 Currently Learning
+- **SQL**: Enhancing my skills for effective data analysis.
+- **Power BI**: Focusing on creating impactful dashboards.
 
-## 💞️ I’m looking to collaborate on...
-- Projects that involve data analysis
-- Learning opportunities in data science
-- Any interesting data-related initiatives
+## 📫 Connect with me
+Feel free to reach out on LinkedIn: [Harpreet Singh] https://www.linkedin.com/in/singh-harpreet-
 
-## 📫 How to reach me...
-Feel free to connect with me on LinkedIn: [Harpreet Singh] https://www.linkedin.com/in/singh-harpreet-
+## 😄 Pronouns
+He/Him
 
-## 😄 Pronouns: He/Him
+## ⚡ Fun Fact
+I love finding interesting patterns in data and using them to make better decisions.
 
-## ⚡ Fun fact:
-I enjoy finding patterns in data and turning them into strategies.
+
